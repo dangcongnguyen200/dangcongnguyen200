@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Dang%20Cong%20Nguyen&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ĐẶNG%20CÔNG%20NGUYÊN&fontAlign=50&fontAlignY=40&color=0:0f172a,100:2563eb&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ## Fullstack Developer • AI Systems Builder • Cloud-Native Learner
 
@@ -199,7 +199,7 @@ Tôi thích xây dựng các sản phẩm:
 
 <div align="center">
 
-<a href="https://github.com/congnguyen2005">
+<a href="https://github.com/dangcongnguyen200">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
