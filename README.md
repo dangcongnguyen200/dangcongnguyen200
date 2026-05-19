@@ -1,96 +1,108 @@
 👋 Hi, I'm Dang Cong Nguyen
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=AI+Systems+Engineer;Fullstack+AI+Developer;AI+ORM+Architect;Realtime+Cloud+Builder;Enterprise+SaaS+Engineer;Building+AI+Platforms+for+2026%2B" /> </p> <p align="center"> <img src="https://img.shields.io/github/followers/dangcongnguyen200?style=for-the-badge&color=00F7FF" /> <img src="https://img.shields.io/github/stars/dangcongnguyen200?style=for-the-badge&color=7C3AED" /> <img src="https://img.shields.io/badge/Focus-AI%20Systems-00F7FF?style=for-the-badge" /> <img src="https://img.shields.io/badge/Location-Vietnam-red?style=for-the-badge" /> </p>
-🚀 About Me
-const DangCongNguyen = {
-  role: [
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=1100&lines=AI+Systems+Engineer;Enterprise+AI+Architect;Fullstack+AI+Developer;Realtime+Cloud+Engineer;Building+Next-Gen+AI+Platforms;AI+SaaS+Builder+2026%E2%80%942030" /> </p> <p align="center"> <img src="https://img.shields.io/github/followers/dangcongnguyen200?style=for-the-badge&logo=github&color=00F7FF"/> <img src="https://img.shields.io/github/stars/dangcongnguyen200?style=for-the-badge&logo=github&color=7C3AED"/> <img src="https://img.shields.io/badge/AI-Systems%20Engineering-00F7FF?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cloud-Realtime%20Architecture-7C3AED?style=for-the-badge"/> <img src="https://img.shields.io/badge/Vietnam-Developer-red?style=for-the-badge"/> </p>
+🌌 About Me
+class DangCongNguyen {
+  role = [
     "AI Systems Engineer",
-    "Fullstack Developer",
-    "Cloud Architecture Builder",
-    "Realtime Application Engineer"
-  ],
+    "Fullstack AI Developer",
+    "Realtime Infrastructure Builder",
+    "Enterprise SaaS Architect"
+  ];
 
-  specializesIn: [
+  expertise = [
     "AI SaaS Platforms",
-    "Realtime Architectures",
-    "AI Automation Systems",
-    "Cloud Applications",
-    "Enterprise Dashboards"
-  ],
+    "Realtime Systems",
+    "Cloud-native Applications",
+    "Automation Architectures",
+    "Business Intelligence Systems"
+  ];
 
-  currentFocus: "Building scalable AI-powered ecosystems",
+  currentMission = "Building scalable AI ecosystems for the future";
 
-  location: "Vietnam 🇻🇳"
+  techMindset = [
+    "Scalable",
+    "Realtime",
+    "AI-first",
+    "Automation-driven",
+    "Enterprise-ready"
+  ];
 }
-🔥 Featured Project
-AI-Powered ORM
 
-AI Reputation Operating System for modern businesses.
+export default DangCongNguyen;
+🚀 Featured Project
+🤖 AI-Powered ORM
+AI Reputation Operating System
 
-✨ Core Features
+Enterprise-grade AI platform for:
+
+⭐ Review Management
 🤖 AI Sentiment Analysis
-⭐ Review Management System
-🚨 AI Crisis Detection
-📊 Realtime Analytics Dashboard
-🔔 Smart Monitoring & Alerts
-⚡ AI Workflow Automation
-☁️ Cloud-based Infrastructure
-📈 Business Intelligence Engine
-🏗️ System Architecture
-Frontend Layer
-├── Next.js
-├── TailwindCSS
-├── TypeScript
-└── Realtime UI
+🚨 Crisis Detection
+📡 Brand Monitoring
+⚡ AI Automation
+📊 Business Intelligence
+🔔 Smart Alerts
+☁️ Cloud-native Operations
+📈 Realtime Analytics
+🧠 Platform Architecture
+┌──────────────────────────────────────┐
+│            Frontend Layer            │
+├──────────────────────────────────────┤
+│ Next.js • React • TypeScript         │
+│ TailwindCSS • Realtime Dashboard     │
+└──────────────────────────────────────┘
 
-Backend Layer
-├── Supabase
-├── PostgreSQL
-├── Edge Functions
-└── Realtime Engine
+┌──────────────────────────────────────┐
+│             Backend Layer            │
+├──────────────────────────────────────┤
+│ Supabase • PostgreSQL • APIs         │
+│ Edge Functions • Auth • Realtime     │
+└──────────────────────────────────────┘
 
-AI Layer
-├── OpenAI
-├── AI Classification
-├── Sentiment Engine
-└── Automation Workflows
+┌──────────────────────────────────────┐
+│               AI Layer               │
+├──────────────────────────────────────┤
+│ OpenAI • NLP • AI Classification     │
+│ Sentiment Engine • AI Automation     │
+└──────────────────────────────────────┘
 
-Infrastructure
-├── Cloud Architecture
-├── Scalable APIs
-├── Security Layer
-└── Monitoring Systems
-⚡ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,ts,react,nodejs,supabase,postgres,tailwind,vercel,git,github,vscode" /> </p>
+┌──────────────────────────────────────┐
+│          Infrastructure Layer        │
+├──────────────────────────────────────┤
+│ Cloud Systems • Monitoring           │
+│ Security • Scalability • DevOps      │
+└──────────────────────────────────────┘
+⚡ Tech Ecosystem
+<p align="center"> <img src="https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,supabase,postgres,tailwind,vercel,docker,firebase,git,github,vscode" /> </p>
 📊 GitHub Analytics
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangcongnguyen200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcongnguyen200&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangcongnguyen200&theme=tokyonight&hide_border=true&background=0D1117"/> </p>
-🚀 Current Mission
-
-Building next-generation:
-
-AI SaaS Ecosystems
-Enterprise Realtime Platforms
-AI Automation Infrastructure
-Intelligent Business Systems
-Cloud-native Architectures
-AI Reputation Networks
+<p align="center"> <img height="190em" src="https://github-readme-stats.vercel.app/api?username=dangcongnguyen200&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00F7FF&title_color=00F7FF"/> <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangcongnguyen200&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangcongnguyen200&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7C3AED"/> </p>
+🚀 Current Focus
+Building next-generation AI systems:
+🤖 AI SaaS Ecosystems
+⚡ Realtime Enterprise Platforms
+☁️ Cloud-native Architectures
+🧠 Intelligent Automation
+📊 AI Business Analytics
+🔄 Autonomous Workflows
+🌍 Global-scale Infrastructure
 🧠 Engineering Philosophy
-Build scalable systems.
-Design realtime experiences.
+Design for scale.
+Build for realtime.
 Integrate AI deeply.
-Automate everything possible.
-Create products for the future.
+Automate intelligently.
+Engineer for the future.
 🌌 Vision 2026 — 2030
+<p align="center">
 AI + Cloud + Automation + Realtime
-=
-Future Enterprise Software
-
-Goal:
-
+                =
+     Future Enterprise Systems
+</p>
+Long-term Goals
 Build global AI products
-Create enterprise SaaS systems
-Develop intelligent automation platforms
-Scale realtime cloud infrastructures
+Create enterprise SaaS ecosystems
+Develop intelligent automation infrastructures
+Scale cloud-native realtime systems
 Push modern AI engineering forward
-📫 Connect With Me
+🛰️ Connect With Me
 <p align="center"> <a href="https://github.com/dangcongnguyen200"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> </a> </p>
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7C3AED&height=120&section=footer"/> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00F7FF,50:7C3AED,100:0D1117&section=footer"/> </p>
